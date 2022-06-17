@@ -15,3 +15,7 @@
 
 ![preview](https://github.com/mortaldew/OOP_Labs/blob/Lab2/Pictures/Dependencies.png?raw=true)
 
+Использование новой фигуры
+
+https://user-images.githubusercontent.com/72689821/174317455-4831db9b-5a62-4712-9f5c-b212e1bbd7b4.mov
+

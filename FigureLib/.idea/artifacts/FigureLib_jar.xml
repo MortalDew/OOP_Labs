@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FigureLib:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FigureLib_jar</output-path>
+    <root id="archive" name="FigureLib.jar">
+      <element id="module-output" name="FigureLib" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/17.0.1/javafx-graphics-17.0.1-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/17.0.1/javafx-base-17.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

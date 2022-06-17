@@ -2,10 +2,10 @@
 
 Мультипоточность при помощи Thread
 
-Remake of the Atari Breakout Game using PyGame.
 ![preview](https://github.com/mortaldew/OOP_Labs/blob/Lab1/Pictures/Thread.png?raw=true)
 
 Применение паттерна Bulder
+
 Паттерн Строитель вынесит конструирование объекта за пределы его собственного класса, поручив это дело отдельным объектам, называемым строителями.
 
 ![preview](https://github.com/mortaldew/OOP_Labs/blob/Lab1/Pictures/BuilderPattern.png?raw=true)

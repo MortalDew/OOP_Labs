@@ -4,8 +4,8 @@
 
 ![preview](https://github.com/mortaldew/OOP_Labs/blob/Lab1/Pictures/Thread.png?raw=true)
 
-Применение паттерна Bulder
+Применение паттерна Abstract Factory
 
-Паттерн Строитель вынесит конструирование объекта за пределы его собственного класса, поручив это дело отдельным объектам, называемым строителями.
+Абстрактная фабрика — это порождающий паттерн проектирования, который позволяет создавать семейства связанных объектов, не привязываясь к конкретным классам создаваемых объектов.
 
-![preview](https://github.com/mortaldew/OOP_Labs/blob/Lab1/Pictures/BuilderPattern.png?raw=true)
+![preview](https://github.com/mortaldew/OOP_Labs/blob/Lab1/Pictures/Parenting.png?raw=true)
